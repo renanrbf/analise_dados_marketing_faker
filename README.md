@@ -24,7 +24,7 @@ Este projeto consiste na análise completa de um teste A/B para um site de e-com
 
 A análise estatística revelou um **p-valor de 0.0000**, indicando uma diferença estatisticamente significativa entre os dois grupos.
 
-![Gráfico de Conversão](https://imgur.com/a/PEHjRHs)  **Conclusão:** O Layout B demonstrou ser significativamente mais eficaz, aumentando a taxa de adição ao carrinho.
+![Gráfico de Conversão](https://i.imgur.com/OiFM2t4.png)  **Conclusão:** O Layout B demonstrou ser significativamente mais eficaz, aumentando a taxa de adição ao carrinho.
 
 **Recomendação Principal:** Implementar o Layout B como padrão para 100% do tráfego do site para maximizar a conversão.
 
